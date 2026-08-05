@@ -11,9 +11,9 @@
 
 ## النتائج
 
-![team stats](r/r.1.png)
+<img src="r/r.1.png" width="500">
 
-![events analysis](r/r.2.png2.png)
+<img src="r/r.2.png" width="500">
 
 
 
